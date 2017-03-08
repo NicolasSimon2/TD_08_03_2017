@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD_08_03_2017_Simon_Nicolas</string>
+    <string name="BoutonPage1">Créer un compte</string>
+    <string name="BoutonPage2">Valider</string>
+    <string name="ETNom">Nom d\'utilisateur</string>
+    <string name="ETMdp">Mot de passe</string>
+    <string name="ETEmail">Adresse email</string>
+    <string name="TitrePage2">Création du compte</string>
+</resources>
